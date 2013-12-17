@@ -5,6 +5,8 @@ Importing 3D models in popular formats.
 
 This projects uses popular 3D libraries to import 3D models for an iOS based project.
 
+![cube](http://i.imgur.com/hUOrE54.png)
+
 The Assimp library is compiled from [https://github.com/chunkyguy/assimp](https://github.com/chunkyguy/assimp)
 
 Checkout out what I was able to do with the importer so far at my album:
